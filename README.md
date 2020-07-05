@@ -6,4 +6,4 @@
 
 ---
 
-注：其实应该叫"AzzyGentoo"，但服务器里他仍然是"SinanGentoo"，~~入 乡 随 俗~，还是叫司南吧~
+注：其实应该叫"AzzyGentoo"，但服务器里他仍然是"SinanGentoo"，~~入 乡 随 俗~~，还是叫司南吧~
